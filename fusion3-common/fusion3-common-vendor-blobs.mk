@@ -88,11 +88,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/fusion3-common/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/sony/fusion3-common/proprietary/lib/libadsprpc.so:system/lib/libadsprpc.so \
     vendor/sony/fusion3-common/proprietary/lib/libals.so:system/lib/libals.so \
-    vendor/sony/fusion3-common/proprietary/lib/libcald_client.so:system/lib/libcald_client.so \
-    vendor/sony/fusion3-common/proprietary/lib/libcald_hal.so:system/lib/libcald_hal.so \
-    vendor/sony/fusion3-common/proprietary/lib/libcald_imageutil.so:system/lib/libcald_imageutil.so \
-    vendor/sony/fusion3-common/proprietary/lib/libcald_pal.so:system/lib/libcald_pal.so \
-    vendor/sony/fusion3-common/proprietary/lib/libcald_util.so:system/lib/libcald_util.so \
     vendor/sony/fusion3-common/proprietary/lib/libcamera_clientsemc.so:system/lib/libcamera_clientsemc.so \
     vendor/sony/fusion3-common/proprietary/lib/libcameralight.so:system/lib/libcameralight.so \
     vendor/sony/fusion3-common/proprietary/lib/libcredential-manager-service.so:system/lib/libcredential-manager-service.so \

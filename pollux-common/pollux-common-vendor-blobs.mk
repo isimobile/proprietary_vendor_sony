@@ -28,8 +28,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pollux-common/proprietary/lib/libcald_server.so:system/lib/libcald_server.so \
     vendor/sony/pollux-common/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/sony/pollux-common/proprietary/lib/libcald_client.so:system/lib/libcald_client.so \
-    vendor/sony/pollux-common/proprietary/lib/libcald_hal:system/lib/libcald_hal.so \
-    vendor/sony/pollux-common/proprietary/lib/libcald_imageutil:system/lib/libcald_imageutil.so \
+    vendor/sony/pollux-common/proprietary/lib/libcald_hal.so:system/lib/libcald_hal.so \
+    vendor/sony/pollux-common/proprietary/lib/libcald_imageutil.so:system/lib/libcald_imageutil.so \
     vendor/sony/pollux-common/proprietary/lib/libcald_util.so:system/lib/libcald_util.so \
     vendor/sony/pollux-common/proprietary/lib/libcald_pal.so:system/lib/libcald_pal.so \
     vendor/sony/pollux-common/proprietary/vendor/camera/flash.dat:system/vendor/camera/flash.dat \
