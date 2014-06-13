@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pollux-common/proprietary/etc/firmware/touch_module_id_0x4c.img:system/etc/firmware/touch_module_id_0x4c.img \
     vendor/sony/pollux-common/proprietary/etc/flashled_calc_parameters.cfg:system/etc/flashled_calc_parameters.cfg \
     vendor/sony/pollux-common/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
-    vendor/sony/pollux-common/proprietary/lib/libcald_server.so:system/lib/libcald_server.so \
     vendor/sony/pollux-common/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/sony/pollux-common/proprietary/vendor/camera/flash.dat:system/vendor/camera/flash.dat \
     vendor/sony/pollux-common/proprietary/vendor/camera/LGI02BN0_IMX132.dat:system/vendor/camera/LGI02BN0_IMX132.dat \
